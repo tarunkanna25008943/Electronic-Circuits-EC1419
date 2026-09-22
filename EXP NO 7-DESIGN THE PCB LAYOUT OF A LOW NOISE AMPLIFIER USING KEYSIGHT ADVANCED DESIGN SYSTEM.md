@@ -17,3 +17,6 @@
 
 ## result
 <img width="406" height="167" alt="image" src="https://github.com/user-attachments/assets/599f35ca-3231-4ff2-8e21-bc3257816e0d" />
+
+## mark splitup
+<img width="358" height="200" alt="image" src="https://github.com/user-attachments/assets/e0e44d37-5bd3-42ea-9484-f43d59b6a8c5" />
