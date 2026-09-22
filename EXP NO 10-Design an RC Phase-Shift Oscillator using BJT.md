@@ -9,9 +9,16 @@
 
 
 ## tabulation
+<img width="416" height="262" alt="image" src="https://github.com/user-attachments/assets/ea3a4fce-d639-47a5-85d9-bcf5be6f2aac" />
 
 ## output graph sheet
+<img width="414" height="411" alt="image" src="https://github.com/user-attachments/assets/49463f1f-cb0b-4264-b7b4-92fa37f45b32" />
 
 ## calculation
+<img width="406" height="410" alt="image" src="https://github.com/user-attachments/assets/d817a0b7-3cfe-4c06-8cc1-1b8fceb16f6e" />
 
 ## result
+<img width="400" height="202" alt="image" src="https://github.com/user-attachments/assets/14045430-7920-47ac-bd76-89dfb6af69e4" />
+
+## mark splitup
+<img width="303" height="179" alt="image" src="https://github.com/user-attachments/assets/67313746-bd29-4302-8680-6805688f3563" />
