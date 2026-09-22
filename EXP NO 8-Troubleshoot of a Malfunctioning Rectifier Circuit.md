@@ -5,9 +5,19 @@
 <img width="661" height="592" alt="image" src="https://github.com/user-attachments/assets/e09e8377-c841-434f-a6e6-27394cb075ce" />
 <img width="643" height="150" alt="image" src="https://github.com/user-attachments/assets/20f3fa20-64ed-4f77-bd24-223155f63f1d" />
 
+## circuit diagram
+<img width="443" height="275" alt="image" src="https://github.com/user-attachments/assets/78513bcf-7a16-4c87-a1a0-ec681f132872" />
 
 ## tabulation
+<img width="442" height="634" alt="image" src="https://github.com/user-attachments/assets/4afbb6c0-9bd2-4aac-95f0-bcdbdc3233e4" />
 
 ## attach graph sheet
+<img width="461" height="622" alt="image" src="https://github.com/user-attachments/assets/f8a8ace3-23f9-41ce-89b2-0226b35f8065" />
+<img width="515" height="373" alt="image" src="https://github.com/user-attachments/assets/19014d10-f039-4d91-ae02-bd7bc24b8f31" />
 
 ## result
+<img width="398" height="142" alt="image" src="https://github.com/user-attachments/assets/c0170823-20d6-4d48-b9fa-e35c8c5fea72" />
+
+## Mark allocation
+<img width="315" height="249" alt="image" src="https://github.com/user-attachments/assets/a1a1df99-573c-4eb1-833f-67658f94f417" />
+
