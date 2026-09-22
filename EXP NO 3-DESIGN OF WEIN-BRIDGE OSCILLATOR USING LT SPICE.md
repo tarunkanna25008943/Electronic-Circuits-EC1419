@@ -32,3 +32,6 @@
 ## result
 <img width="411" height="118" alt="image" src="https://github.com/user-attachments/assets/3d869b48-b6aa-404e-8a7e-502fc2f28d09" />
 
+## marksplit up
+<img width="329" height="294" alt="image" src="https://github.com/user-attachments/assets/542066e2-67bf-4461-9dba-361b12129682" />
+
