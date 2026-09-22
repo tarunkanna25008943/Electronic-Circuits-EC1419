@@ -8,7 +8,13 @@
 
 
 ## Tabulation
+<img width="373" height="447" alt="image" src="https://github.com/user-attachments/assets/329ea556-5a18-4226-a81c-7a090d472a95" />
 
 ## attach semilog graph
+<img width="356" height="501" alt="image" src="https://github.com/user-attachments/assets/62ed51cb-ce08-4fa8-a129-44cff9d0210c" />
 
 ## result
+<img width="366" height="164" alt="image" src="https://github.com/user-attachments/assets/e6e94ef7-5ca5-47dd-a7b5-4dfcc441dc46" />
+
+## mark allocation
+<img width="321" height="194" alt="image" src="https://github.com/user-attachments/assets/b4c55270-8dd3-4990-ada6-50fa1c420095" />
