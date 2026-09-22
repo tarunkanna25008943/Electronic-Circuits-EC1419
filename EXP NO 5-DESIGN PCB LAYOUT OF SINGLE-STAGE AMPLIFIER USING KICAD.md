@@ -16,3 +16,6 @@
 
 ## result
 <img width="401" height="148" alt="image" src="https://github.com/user-attachments/assets/e7b4cfde-14dc-494d-8cd4-e26ec3a31655" />
+
+## marksplit up
+<img width="345" height="231" alt="image" src="https://github.com/user-attachments/assets/6da70e62-d2d8-4db7-8058-6732ca95622e" />
